@@ -1,10 +1,14 @@
-# monitoring-dashboard-using-Netdata.
-Set up a basic monitoring dashboard using Netdata.
 # Netdata Monitoring Automation Project
 
 ## Overview
 
 This project demonstrates how to set up, monitor, test, and clean up a Linux system monitoring stack using **Netdata**. The goal is to understand monitoring fundamentals and basic DevOps automation using shell scripts.
+
+This project is based on and aligned with the roadmap.sh project:
+
+[https://roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard)
+
+Completing this project demonstrates practical understanding of real-time monitoring, alerting, and automation on Linux systems.
 
 The project automates:
 
@@ -14,9 +18,7 @@ The project automates:
 * Load testing to validate monitoring
 * Complete cleanup of the monitoring agent
 
-This project is suitable for beginners learning DevOps, Linux automation, and monitoring concepts.
-
----
+This project is suitable for beginners learning DevOps, Linux automatio
 
 ## Project Structure
 
